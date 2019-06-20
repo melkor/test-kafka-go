@@ -1,0 +1,8 @@
+{
+	"type":	"record",
+	"name": "MelkorTestMessage",
+	"fields": [
+		{ "name": "message", "type": "string" },
+		{ "name": "nick", "type": "string" }
+	]
+}
